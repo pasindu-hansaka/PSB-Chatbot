@@ -1,0 +1,1 @@
+print("Welcome to the PSB Academic Chatbot! How can I assist you today?")
