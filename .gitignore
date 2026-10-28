@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and API keys
+.env
+
+# University PDF documents
+documents/
+
+# VS Code local settings
+.vscode/
